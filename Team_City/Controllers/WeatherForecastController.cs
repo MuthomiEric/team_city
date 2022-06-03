@@ -13,7 +13,7 @@ namespace Team_City.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","Changed"
+            "One", "Bracing", "Chilly", "Cool", "Two", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","Changed"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
